@@ -3,3 +3,4 @@
 * Cyclic redundancy check
 * Hamming code
 * Dijkstra's algorithm
+* Socket Programming
