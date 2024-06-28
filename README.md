@@ -4,3 +4,6 @@
 * Hamming code
 * Dijkstra's algorithm
 * Socket Programming
+  * Simple Connection
+  * One way
+  * Two way
